@@ -1,0 +1,2 @@
+now this all changes go into stash 
+we can see this by using stash pop command.
